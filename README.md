@@ -55,9 +55,3 @@ Classify emails as **Spam** or **Not Spam** using their content.
 
 ---
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ML-Projects-Stock-Prediction-Spam-Detection.git
-   cd ML-Projects-Stock-Prediction-Spam-Detection
